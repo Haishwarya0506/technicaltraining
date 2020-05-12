@@ -1,0 +1,2 @@
+# technicaltraining
+structural damage detection
